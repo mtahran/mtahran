@@ -3,9 +3,9 @@
 
 - Hi 👋, I’m @mtahran
 - 👀 I’m interested in teaching and technology.
-- 🌱 I’m currently learning Cloud & DevOps Engineering.
+- 🌱 I’m currently learning Cloud & DevOps Engineering tools.
 - 💞️ I’m looking to collaborate on DevOPs.
-- 📫 How to reach me ...just email me by mutahran@gmail.com
+- 📫 Email me to mutahran@gmail.com to contact.
 
 Certificates:
 
