@@ -1,4 +1,5 @@
-![image](https://github.com/mtahran/mtahran/assets/126840633/1c2eaeda-a3c0-4328-855d-9edf5fd7d108)
+![Devops1](https://github.com/mtahran/mtahran/assets/126840633/e888387b-b861-491b-8888-d57fc0341971)
+
 
 - Hi 👋, I’m @mtahran
 - 👀 I’m interested in teaching and technology.
