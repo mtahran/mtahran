@@ -1,11 +1,11 @@
 ![Devops1](https://github.com/mtahran/mtahran/assets/126840633/e888387b-b861-491b-8888-d57fc0341971)
 
 
-- Hi 👋, I’m @mtahran
+- Hi 👋, I’m Mustafa.
 - 👀 I’m interested in teaching and technology.
-- 🌱 I’m currently learning Cloud & DevOps Engineering tools.
-- 💞️ I’m looking to collaborate on DevOPs.
-- 📫 Email me to mutahran@gmail.com to contact.
+- 🌱 I’m currently learning Cloud & DevOps tools.
+- 💞️ I’m looking to collaborate on DevOps.
+- 📫 Email me at mutahran@gmail.com to contact me.
 
 Certificates:
 
