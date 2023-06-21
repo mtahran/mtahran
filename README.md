@@ -1,4 +1,5 @@
-![Devops1](https://github.com/mtahran/mtahran/assets/126840633/e888387b-b861-491b-8888-d57fc0341971)
+![Devops1](https://github.com/mtahran/mtahran/assets/126840633/4c51a9f6-404f-4b36-a07e-8f06bcbb477a)
+
 
 
 - Hi 👋, I’m Mustafa.
