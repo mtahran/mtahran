@@ -10,9 +10,8 @@
 
 Certificates:
 
-![LinuxEssentials-Medium](https://github.com/mtahran/mtahran/assets/126840633/1a7bab56-158d-4e03-8204-57b11e6d507a)
-![61f11fac8e6f4153315957](https://github.com/mtahran/mtahran/assets/126840633/0ddaf20f-ba37-4d61-a932-f647fa6df0ce)
-![AWS-CloudPractitioner-e59f9abb2c52fad10c92a643498ffaa6](https://github.com/mtahran/mtahran/assets/126840633/96c9d62a-4c09-4c92-92c7-7ad960e0f391)
+![Untitled](https://github.com/mtahran/mtahran/assets/126840633/ae3ed0e7-73da-4e02-8575-257c13c46a80)
+
 
 
 <!---
