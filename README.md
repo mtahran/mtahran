@@ -10,9 +10,7 @@
 
 Certificates:
 
-![badges-2](https://github.com/mtahran/mtahran/assets/126840633/f2886077-c6a2-45a5-aa5a-b10f59887a3d)
-
-
+![badges2](https://github.com/mtahran/mtahran/assets/126840633/5cd65ac2-62ad-4f6a-8c03-74b2e985ab9a)
 
 
 
