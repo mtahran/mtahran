@@ -4,7 +4,7 @@
 
 - Hi 👋, I’m Mustafa.
 - 👀 I’m interested in teaching and technology.
-- 🌱 I’m currently learning Cloud & DevOps tools.
+- 🌱 I’m currently working as a Cloud & DevOps Engineer.
 - 💞️ I’m looking to collaborate on DevOps.
 - 📫 Email me at mutahran@gmail.com to contact me.
 
